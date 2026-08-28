@@ -1,0 +1,20 @@
+{
+  "character": {
+    "id": "e959905d-13d3-42cc-969e-74eddb798a50",
+    "name": "CyberAI Runner",
+    "spritesheet": "https://api.pixellab.ai/mcp/characters/e959905d-13d3-42cc-969e-74eddb798a50/spritesheet",
+    "rotations": {
+      "south": "https://backblaze.pixellab.ai/file/pixellab-characters/4faf6f95-7952-4f5e-92f1-7ab1cb96c6b3/e959905d-13d3-42cc-969e-74eddb798a50/rotations/south.png?t=1787911140",
+      "north": "https://backblaze.pixellab.ai/file/pixellab-characters/4faf6f95-7952-4f5e-92f1-7ab1cb96c6b3/e959905d-13d3-42cc-969e-74eddb798a50/rotations/north.png?t=1787911140",
+      "east": "https://backblaze.pixellab.ai/file/pixellab-characters/4faf6f95-7952-4f5e-92f1-7ab1cb96c6b3/e959905d-13d3-42cc-969e-74eddb798a50/rotations/east.png?t=1787911140",
+      "west": "https://backblaze.pixellab.ai/file/pixellab-characters/4faf6f95-7952-4f5e-92f1-7ab1cb96c6b3/e959905d-13d3-42cc-969e-74eddb798a50/rotations/west.png?t=1787911140"
+    }
+  },
+  "tileset": {
+    "id": "5bbc99d4-c20e-4030-82f9-6bc9fe634c2d",
+    "type": "sidescroller",
+    "tile_size": 32,
+    "download_png": "https://api.pixellab.ai/mcp/sidescroller-tilesets/5bbc99d4-c20e-4030-82f9-6bc9fe634c2d/image",
+    "metadata": "https://api.pixellab.ai/mcp/sidescroller-tilesets/5bbc99d4-c20e-4030-82f9-6bc9fe634c2d/metadata"
+  }
+}
