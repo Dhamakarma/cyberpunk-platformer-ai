@@ -1,18 +1,17 @@
-# Cyberpunk Platformer AI - Alpha
+# Cyberpunk Platformer AI - ISO 2.5D
 
-First playable level with cyberpunk aesthetics.
+Isometric cyberpunk prototype.
 
 ## Jogar
 ```bash
 npm install
 npm run dev
 ```
-Abre http://localhost:5173
 
-Controles: ← → para mover, ↑ / Espaço para saltar.
+Controles WASD para mover o personagem sobre grid isométrico.
 
-Assets PixelLab:
+Assets:
+- Isometric tiles `8237ba6c-38e5-4b18-9ffb-b2c7171f53cd`
 - Character CyberAI Runner `e959905d-13d3-42cc-969e-74eddb798a50`
-- Tileset sidescroller neon concrete `5bbc99d4-c20e-4030-82f9-6bc9fe634c2d`
 
-Pipeline paralelo: assets PixelLab + código Phaser no mesmo repo.
+Pipeline paralelo PixelLab + Phaser.
